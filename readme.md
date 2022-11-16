@@ -1,4 +1,4 @@
-## Hi, I'm Rahul kumar 👋 [here](rkpassin132.github.io)
+## Hi, I'm Rahul kumar 👋 [here](https://rkpassin132.github.io/)
 
 [<img alt="header-image" src="src/assets/images/banner.gif" />](#)
 
