@@ -287,6 +287,18 @@ a:link:focus {
   transition: all 0.25s ease-in-out;
 }
 
+.whatsapp-btn{
+  background: #14bb52;
+  vertical-align: middle;
+  align-items: center;
+  display: flex;
+  font-size: 14px;
+}
+.whatsapp-btn img{
+  margin-right: 10px;
+  height: 25px;
+}
+
 .cta-btn {
   text-transform: uppercase;
 }
