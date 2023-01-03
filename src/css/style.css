@@ -1032,6 +1032,12 @@ body {
   margin-bottom: -6px;
 }
 
+.resume .subtitle-link a img {
+  -webkit-transform: scale(0.8);
+          transform: scale(0.8);
+  margin-bottom: -6px;
+}
+
 .resume .list .list__item {
   list-style: none;
   font-size: 0.875rem;
