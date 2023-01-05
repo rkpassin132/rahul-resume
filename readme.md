@@ -4,7 +4,7 @@
 
 [<img alt="header-image" src="src/assets/images/banner.gif" />](#)
 
-I am a B.tech (Computer science engineer) student and a Website & Mobile app developer. I have experience in front-end developemnt using ``html/css, Javascript, React, React native`` and back-end developent using ``PHP, Laravel, Node.js, SQL, mongoDB``. Worked on solo projects as well as with team.<br/>
+I am a B.tech (Computer science engineer) student and a Website & Mobile app developer. I have experience in front-end developemnt using ``HTML/CSS, JavaScript, React, React Native`` and back-end developent using ``PHP, Laravel, Node.js, SQL, MongoDB``. Worked on solo projects as well as with team.<br/>
 A developer who is passionate about work. Enthusiastic engineering graduate with good knowledge PHP and MERN Stack developemnt. Eager to work on challenging projects. <br/>
 
 ### **Check my [Resume 💼](https://rkpassin132.github.io/)**
@@ -47,6 +47,8 @@ A developer who is passionate about work. Enthusiastic engineering graduate with
 
 <br />
 <br />
+
+## Stats
 
 <p><img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=rkpassin132&show_icons=true&locale=en" /></p>
 <p><img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com?user=rkpassin132&mode=weekly)](https://git.io/streak-stats" /></p>
