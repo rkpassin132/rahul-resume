@@ -26,6 +26,9 @@
           <li>
             <a href="#services" onclick="scrollTo('service')">Services</a>
           </li>
+          <li>
+            <a href="#works" onclick="scrollTo('service')">Work</a>
+          </li>
           <li><a href="#resume" onclick="scrollTo('resume')">Resume</a></li>
           <li><a href="#footer" onclick="scrollTo('footer')">Contact</a></li>
         </ul>
@@ -59,7 +62,8 @@
             <span class="underline underline-shape-4">About</span>
           </h3>
           <h5>
-            Hi, I’m Rahul kumar. I'm a website and mobile app developer with good knowledge and experience in PHP, Laravel and MERN developement.
+            Hi, I’m Rahul kumar. I'm a website and mobile app developer with good knowledge and experience in PHP,
+            Laravel and MERN developement.
           </h5>
           <p>
             Enthusiastic engineering graduate with good knowledge in coding
@@ -100,6 +104,29 @@
               get your idea into the world.
             </p>
           </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="works" class="works">
+      <div class="works__wrapper maxwidth">
+        <h3 class="headline-3 text-center">
+          <span class="underline underline-shape-5">Recent Works</span>
+        </h3>
+        <h5 class="subtitle-2 text-center">
+          Here is a couple of projects I’ve worked on recently.
+        </h5>
+        <ul class="filter__items flex flex-jc-sa mr-auto">
+          <li class="filter__item active" data-filter="*">All</li>
+          <li class="filter__item" data-filter=".website">Website</li>
+          <li class="filter__item" data-filter=".app">App</li>
+          <li class="filter__item" data-filter=".plugin">Plugin</li>
+        </ul>
+        <div class="component">
+          <div class="component-content"></div>
+        </div>
+        <div class="grid">
+
         </div>
       </div>
     </section>
@@ -247,6 +274,7 @@
                 <h5 class="subtitle-2">Library</h5>
                 <ul class="list">
                   <li class="list__item">React</li>
+                  <li class="list__item">Redux</li>
                   <li class="list__item">Bootstrap</li>
                 </ul>
               </div>
@@ -273,7 +301,12 @@
               </h5>
               <p class="caption">July 2022 - August 2022</p>
               <ul class="list list-dot">
-                <li class="list__item">Book reader is an application where user can explore new and diffrent kind of books. User can enjoy books by reading or listening book audio. Check <b>Github</b> profile for more details.</li>
+                <li class="list__item">Users can go through the book by reading or listening to audio of the book. This
+                  app has features where one can login
+                  with Google or Facebook, like it, add it to your library or even
+                  you can search books by category or by name. It also suggests
+                  books to users as per their interest and helps them to buy it
+                  using the link provided.</li>
                 <li class="list__item">
                   <b>Role: </b>: Front-end & Back-end.
                 </li>
@@ -291,7 +324,11 @@
               </h5>
               <p class="caption">May 2021 - May 2021</p>
               <ul class="list list-dot">
-                <li class="list__item">Online student attendance and schedule management system with admin, teacher and student. Check <b>Github</b> profile for more details.</li>
+                <li class="list__item">Online student attendance management system performed
+                  by admin and teacher. Admin can set up college detail and
+                  teacher schedules. A teacher can only access scheduled classes
+                  and take live attendance with minimum effort. The student is
+                  able to check overall performance.</li>
                 <li class="list__item">
                   <b>Role: </b>: Front-end & Back-end.
                 </li>
@@ -411,8 +448,11 @@
     </footer>
   </div>
   <!-- Vendor JS -->
+  <script defer src="src/vendor/js/isotope-3.0.6.min.js"></script>
+  <!-- <script defer src="/src/vendor/js/smooth-scroll.min.js"></script> -->
   <script defer src="src/vendor/js/lottie-5.7.5.min.js"></script>
   <!-- app.js -->
+  <script defer src="src/json-data/portfolio.js"></script>
   <script defer src="src/js/index.js"></script>
 </body>
 
