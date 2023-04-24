@@ -39,4 +39,12 @@ const potfolioData = [
     live_link: "https://play.google.com/store/apps/details?id=com.nukepin.quickwachat",
     filter_class: "app",
   },
+  {
+    name: "UDownload",
+    caption: "React | Nodejs",
+    image: "src/assets/images/portfolio/udownload.png",
+    source_link: "",
+    live_link: "https://udownload.netlify.app/",
+    filter_class: "website",
+  },
 ];
