@@ -34,7 +34,7 @@ const potfolioData = [
   {
     name: "Quick WA Chat",
     caption: "Android | Java",
-    image: "src/assets/images/portfolio/wa.gif",
+    image: "src/assets/images/portfolio/wa.jpg",
     source_link: "",
     live_link: "https://play.google.com/store/apps/details?id=com.nukepin.quickwachat",
     filter_class: "app",
@@ -45,6 +45,22 @@ const potfolioData = [
     image: "src/assets/images/portfolio/udownload.png",
     source_link: "",
     live_link: "https://udownload.netlify.app/",
+    filter_class: "website",
+  },
+  {
+    name: "Mausam",
+    caption: "React | Material UI",
+    image: "src/assets/images/portfolio/mausam.jpg",
+    source_link: "https://github.com/rkpassin132/mausam-kesa",
+    live_link: "https://mausam-kaisa.netlify.app/",
+    filter_class: "website",
+  },
+  {
+    name: "Promptopia",
+    caption: "Next.js | Mongodb",
+    image: "src/assets/images/portfolio/promptopia.jpg",
+    source_link: "https://github.com/rkpassin132/promptopia",
+    live_link: "https://promptopia-here.vercel.app/",
     filter_class: "website",
   },
 ];
