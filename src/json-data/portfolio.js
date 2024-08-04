@@ -67,8 +67,8 @@ const potfolioData = [
     name: "Etherscan",
     caption: "Next.js | Ether Api | Infura Api",
     image: "src/assets/images/portfolio/etherscan.jpg",
-    source_link: "https://github.com/rkpassin132/etherscan",
-    live_link: "https://etherscan-eta.vercel.app/",
+    source_link: "https://github.com/rkpassin132/etherscan-readme",
+    live_link: "https://etherscan-rkpassin132.vercel.app/",
     filter_class: "website",
   },
 ];
