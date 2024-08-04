@@ -63,4 +63,12 @@ const potfolioData = [
     live_link: "https://promptopia-here.vercel.app/",
     filter_class: "website",
   },
+  {
+    name: "Etherscan",
+    caption: "Next.js | Ether Api | Infura Api",
+    image: "src/assets/images/portfolio/etherscan.jpg",
+    source_link: "https://github.com/rkpassin132/etherscan",
+    live_link: "https://etherscan-eta.vercel.app/",
+    filter_class: "website",
+  },
 ];
