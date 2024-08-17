@@ -64,11 +64,27 @@ const potfolioData = [
     filter_class: "website",
   },
   {
+    name: "Decentralized File System",
+    caption: "React | Hardhat | Blockchain",
+    image: "src/assets/images/portfolio/etherscan.jpg",
+    source_link: "https://github.com/rkpassin132/gdrive-hardhat",
+    live_link: "https://drive-rkpassin132.netlify.app",
+    filter_class: "website",
+  },
+  {
     name: "Etherscan",
     caption: "Next.js | Ether Api | Infura Api",
     image: "src/assets/images/portfolio/etherscan.jpg",
     source_link: "https://github.com/rkpassin132/etherscan",
     live_link: "https://etherscan-rkpassin132.vercel.app/",
+    filter_class: "website",
+  },
+  {
+    name: "Chat App",
+    caption: "Next.js | hardhart | Blockchain",
+    image: "src/assets/images/portfolio/etherscan.jpg",
+    source_link: "https://github.com/rkpassin132/blockchain-chat-app",
+    live_link: "https://chatapp-rkpassin132.vercel.app/",
     filter_class: "website",
   },
 ];
