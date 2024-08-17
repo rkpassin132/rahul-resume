@@ -67,7 +67,7 @@ const potfolioData = [
   {
     name: "Decentralized File System",
     caption: "React | Hardhat | Blockchain",
-    image: "src/assets/images/portfolio/gdrive.jpg",
+    image: "src/assets/images/portfolio/gdrive.png",
     source_link: "https://github.com/rkpassin132/gdrive-hardhat",
     live_link: "https://drive-rkpassin132.netlify.app",
     filter_class: "website",
