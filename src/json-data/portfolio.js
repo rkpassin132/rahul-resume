@@ -36,7 +36,8 @@ const potfolioData = [
     caption: "Android | Java",
     image: "src/assets/images/portfolio/wa.jpg",
     source_link: "",
-    live_link: "https://play.google.com/store/apps/details?id=com.nukepin.quickwachat",
+    live_link:
+      "https://play.google.com/store/apps/details?id=com.nukepin.quickwachat",
     filter_class: "app",
   },
   {
@@ -66,7 +67,7 @@ const potfolioData = [
   {
     name: "Decentralized File System",
     caption: "React | Hardhat | Blockchain",
-    image: "src/assets/images/portfolio/etherscan.jpg",
+    image: "src/assets/images/portfolio/gdrive.jpg",
     source_link: "https://github.com/rkpassin132/gdrive-hardhat",
     live_link: "https://drive-rkpassin132.netlify.app",
     filter_class: "website",
